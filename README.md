@@ -13,4 +13,9 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+New favicon image
+
+improvements to the footer section.
+phone number and email of coffeshop.
+
+add possible animation or image to fill empty space in between the about section and footer section.
